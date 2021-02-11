@@ -1,0 +1,31 @@
+h1 {
+    height: 65px;
+    color: orange;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+
+
+}
+#primeira-lista{
+    background-color: green;
+    font-style: italic;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: indianred;
+}
+.back-style{
+    background-color: grey;
+}
+#paragrafo-um{
+    font-size: 3em;
+}
+#amarelo {
+    background-color: yellow;
+}
+#vermelho{
+    background-color: red;
+}
+#marrom{
+    background-color: brown;
+}
