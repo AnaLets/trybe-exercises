@@ -1,16 +1,17 @@
 .super-mario{
+  top: 150px;
   position: absolute;
-  height: 70px;
-  left:20px;
+  height: 100px;
+  left:300px;
 
 
 }
 
 .goomba{
-  top: 150px;
+  top: 270px;
   position: absolute;
-  height: 70px;
-  left:20px;
+  height: 80px;
+  left:300px;
 
 
 
@@ -18,18 +19,19 @@
 
 
 .baloon{
-  top: 250px;
+  top: 65px;
   height: 100px;
   position: absolute;
   z-index: 1;
+  left: 370px;
 
 
 }
 .word{
-  top: 245px;
-  height: 10px;
+  top: 60px;
+  height: 2em;
   width: 10px;
-  left:40px;
+  left:400px;
   position: absolute;
   z-index: 2;
 
@@ -38,10 +40,10 @@
 }
 
 .bowser{
-  top: 275px;
-  height: 200px;
+  top: 75px;
+  height: 300px;
   position: absolute;
-  left: 150px;
+  left: 500px;
   
 
 
