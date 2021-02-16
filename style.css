@@ -16,19 +16,23 @@
 
 }
 
-.word{
-  top: 1000px;
-  height: 70px;
-  position: absolute;
 
-  
+.baloon{
+  top: 250px;
+  height: 100px;
+  position: absolute;
+  z-index: 1;
+
 
 }
-.baloon{
-  top: 1000px;
-  height: 70px;
+.word{
+  top: 245px;
+  width: 20px;
+  left:40px;
   position: absolute;
+  z-index: 2;
 
+  
 
 }
 
