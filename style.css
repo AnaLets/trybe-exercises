@@ -1,36 +1,6 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@AnaLets 
-tryber
-/
-sd-10a-live-lectures
-15
-24
-0
-Code
-Issues
-Pull requests
-7
-Actions
-Projects
-Wiki
-Security
-Insights
-sd-10a-live-lectures/styles.css
-@gfpoliva
-gfpoliva Arquivos iniciais
-Latest commit ec9b3c6 5 days ago
- History
- 1 contributor
-78 lines (63 sloc)  949 Bytes
- 
 * {
+    color: darkmagenta;
   font-family: "Montserrat", sans-serif;
   margin: 0;
   box-sizing: border-box;
@@ -45,7 +15,7 @@ p {
 }
 
 .header {
-  background-color: rgb(10, 126, 81);
+  background-color: rgb(207, 164, 204);
   color: white;
 }
 
@@ -54,7 +24,7 @@ p {
 }
 
 .navigation {
-  background-color: cornflowerblue;
+  background-color: rgb(237, 100, 214);
   padding: 0 30px;
 }
 
@@ -86,10 +56,9 @@ p {
 }
 
 .side-bar {
-  background-color: lightgrey;
-  margin: 10px;
+  margin: 50px;
   padding: 20px;
-  width: 200px;
+  width: 100px;
   display: inline-block;
   vertical-align: top;
 }
@@ -97,26 +66,26 @@ p {
 .article {
   padding: 15px;
 }
-
+#image-mantis{
+    width:200px;
+    height:200px
+}
+.big-article{
+    display: block;
+}
 .article-small {
-  display: inline-block;
+  display: block;
   width: 30%;
   margin-right: 10px;
   padding: 15px;
 }
 
-.jobs {
-  margin-top: 40px
+#image-mantis-video{
+    width:500px;
+    height:300px;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+#navigation-ref{
+    padding: 0 30px;
+
+}
