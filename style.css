@@ -1,0 +1,122 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@AnaLets 
+tryber
+/
+sd-10a-live-lectures
+15
+24
+0
+Code
+Issues
+Pull requests
+7
+Actions
+Projects
+Wiki
+Security
+Insights
+sd-10a-live-lectures/styles.css
+@gfpoliva
+gfpoliva Arquivos iniciais
+Latest commit ec9b3c6 5 days ago
+ History
+ 1 contributor
+78 lines (63 sloc)  949 Bytes
+ 
+* {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h2, h3 {
+  margin: 0 0 20px;
+}
+
+p {
+  margin-bottom: 5px;
+}
+
+.header {
+  background-color: rgb(10, 126, 81);
+  color: white;
+}
+
+.title-container {
+  padding: 10px 30px 0;
+}
+
+.navigation {
+  background-color: cornflowerblue;
+  padding: 0 30px;
+}
+
+.navigation ul {
+  padding: 5px 0;
+}
+
+.navigation li {
+  margin-right: 40px;
+  list-style-type: none;
+  display: inline;
+}
+
+.navigation li a {
+  color: white;
+  text-decoration: none;
+}
+  
+.content {
+  max-width: 1200px;
+  margin: auto;
+  flex-grow: 1;
+}
+
+.main-content {
+  width: 66%;
+  display: inline-block;
+
+}
+
+.side-bar {
+  background-color: lightgrey;
+  margin: 10px;
+  padding: 20px;
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.article {
+  padding: 15px;
+}
+
+.article-small {
+  display: inline-block;
+  width: 30%;
+  margin-right: 10px;
+  padding: 15px;
+}
+
+.jobs {
+  margin-top: 40px
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
